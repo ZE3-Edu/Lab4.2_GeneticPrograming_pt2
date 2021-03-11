@@ -2,7 +2,7 @@
 ## Overview
 By the end of this lab, you'll have a fully functional Genetic Programing framework! 
 
-In the last lab, you saw how programs can be represented as trees, and hopefully got to implement a few more function nodes. Now we'll see how to recursively build tree-based programs, and create classes for our individuals and population of GP Trees. ** You'll have to write a selection function that works, but then you'll get to decide what the fitness function looks like! **
+In the last lab, you saw how programs can be represented as trees, and hopefully got to implement a few more function nodes. Now we'll see how to recursively build tree-based programs, and create classes for our individuals and population of GP Trees. **You'll have to write a selection function that works, but then you'll get to decide what the fitness function looks like!**
 
 This will get you a 9/10 on the lab, try your hand at some of the Next Steps for the last 10 points.
 ### Next Steps
